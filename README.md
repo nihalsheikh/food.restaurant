@@ -1,6 +1,4 @@
-# Microsoft FRT Final Project
-
-This is the final project submitted for the completion of Microsoft Future Ready Talent Virtual Internship.
+# Health: Resto Website Project
 
 
 ## This project includes the following files & folders
